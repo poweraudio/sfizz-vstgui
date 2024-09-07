@@ -1,3 +1,11 @@
+**PowerAudio fork of sfztools/vstgui**
+
+This fork of sfztools/vstgui has the following changes:
+
+* Fixed compilation errors on GCC 14.
+
+---
+
 # VSTGUI
 
 ![macOS Build](https://github.com/steinbergmedia/vstgui/workflows/macOS%20Build/badge.svg?branch=develop)
