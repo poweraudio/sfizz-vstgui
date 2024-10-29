@@ -1,6 +1,7 @@
 **PowerAudio fork of sfztools/vstgui**
 
-This fork of sfztools/vstgui has the following changes:
+This fork of sfztools/vstgui currently has no changes. The following changes
+have since been merged upstream:
 
 * Fixed compilation errors on GCC 14.
 
